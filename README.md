@@ -6,12 +6,14 @@ This is a dad jokes app created as a part of The Modern React Bootcamp course on
 
 <h2>Technologies Used<h2/>
 HTML, CSS, Javascript, React 
- 
- icanhazdadjoke API
+ <p> 
+  icanhazdadjoke API<br>
  https://icanhazdadjoke.com/api
  
- Axios
+ Axios<br>
  https://github.com/axios/axios
+ </p>
+ 
   
 <h1>Home Page</h1>
 
