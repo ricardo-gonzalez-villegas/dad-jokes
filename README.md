@@ -3,9 +3,12 @@
 This is a dad jokes app created as a part of The Modern React Bootcamp course on Udemy. It utilizes the icanhazdadjoke API, React lifecycle methods, and Axios to make requests to the API. 
 
 <a href="https://ricardo-gonzalez-villegas.github.io/dad-jokes/">View it here.</a>
-
+<section>
 <h2>Technologies Used<h2/>
 HTML, CSS, Javascript, React 
+</section>
+
+ 
  <p> 
   icanhazdadjoke API<br>
  https://icanhazdadjoke.com/api
